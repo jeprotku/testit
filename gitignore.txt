@@ -1,0 +1,5 @@
+#Ignore these files in Git: python compiled files and Rhistory files.
+
+*.pyc
+.Rhistory
+.Rdata
